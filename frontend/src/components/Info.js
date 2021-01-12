@@ -36,7 +36,8 @@ export default function Info(props){
                     </Typography>
                 </Grid>
                 <Grid item xs={12} align="center">      
-                    Para criar uma sala, basta preencher os campos de controle dos convidados e votos necessários para pular a música.
+                    Para criar uma sala, basta preencher os campos de controle dos convidados 
+                    e votos necessários para pular a música.
                 </Grid>
             </Grid>
         );
